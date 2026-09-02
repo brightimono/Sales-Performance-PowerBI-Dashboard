@@ -7,7 +7,7 @@ The dashboard provides insights into sales performance, revenue, profit, cost of
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](dashboard-preview.png)
+![Screenshot 2026-09-02 161526.png](dashboard-preview.png)
 
 ## Key Performance Indicators
 
