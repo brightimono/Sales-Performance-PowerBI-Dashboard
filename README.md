@@ -1,4 +1,5 @@
-# Sales-Performance-PowerBI-Dashboard
+# Sales Performance Dashboard – Power BI
+
 ## Project Overview
 
 This project presents an interactive Sales Performance Dashboard developed using Microsoft Power BI.
@@ -7,7 +8,7 @@ The dashboard provides insights into sales performance, revenue, profit, cost of
 
 ## Dashboard Preview
 
-![Screenshot 2026-09-02 161526.png](dashboard-preview.png)
+![Sales Performance Dashboard](dashboard-preview.png)
 
 ## Key Performance Indicators
 
